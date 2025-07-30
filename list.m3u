@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1,CCTV1
-https://live.huarenlivewebsite.top/stream/CCTV1_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u7HZ4URnbr_kn0Bmb3nffA0=
+https://cors-anywhere.yidianzhishi.cn/http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
 #EXTINF:-1,CCTV2
 https://live.huarenlivewebsite.top/stream/CCTV2_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_uzZ2iiJHNyJWy3dqh6NSRs8=
 #EXTINF:-1,CCTV3
 https://live.huarenlivewebsite.top/stream/CCTV3_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u0k1v92mLjc6Kgk0uvD2mo4=
 #EXTINF:-1,CCTV4
 https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/11b65ff183334a7da90c8f0ec2e104fb/4000.m3u8
+#EXTINF:-1,安徽卫视
+http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 #EXTINF:-1,CCTV5
 https://live.huarenlivewebsite.top/stream/CCTV5.m3u8?auth=rfiRMZIlX6pACF3jTZW_u-MdrSTRy82m_nKHItuc4fE=
 #EXTINF:-1,CCTV5+
@@ -18,7 +20,7 @@ https://live.huarenlivewebsite.top/stream/CCTV7_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_
 #EXTINF:-1,CCTV8
 https://live.huarenlivewebsite.top/stream/CCTV8_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u2Coh1Zyb5H27WuBidJzzFU=
 #EXTINF:-1,CCTV10
-https://live.huarenlivewebsite.top/stream/CCTV10_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u__i1t3tUsBGjNBtJvZ2bWM=
+https://cors-anywhere.yidianzhishi.cn/http://hbhyjq.ufyct.com:1088/hls/18/index.m3u8
 #EXTINF:-1,CCTV12
 https://live.huarenlivewebsite.top/stream/CCTV10_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u__i1t3tUsBGjNBtJvZ2bWM=
 #EXTINF:-1,CCTV13
