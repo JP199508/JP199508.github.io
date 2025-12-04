@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-https://cors-anywhere.yidianzhishi.cn/http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
-#EXTINF:-1,CCTV2
+#EXTINF:-1,浙江卫视
+https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1764837935-0456d0412d274cc2837f652d569ce034-0-1546692ee2f9db5ecb3768b6e3d01b64#EXTINF:-1,CCTV2
 https://live.huarenlivewebsite.top/stream/CCTV2_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_uzZ2iiJHNyJWy3dqh6NSRs8=
 #EXTINF:-1,CCTV3
 https://live.huarenlivewebsite.top/stream/CCTV3_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u0k1v92mLjc6Kgk0uvD2mo4=
