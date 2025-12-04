@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1,浙江卫视
-https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1764837935-0456d0412d274cc2837f652d569ce034-0-1546692ee2f9db5ecb3768b6e3d01b64#EXTINF:-1,CCTV2
-https://live.huarenlivewebsite.top/stream/CCTV2_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_uzZ2iiJHNyJWy3dqh6NSRs8=
-#EXTINF:-1,CCTV3
-https://live.huarenlivewebsite.top/stream/CCTV3_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u0k1v92mLjc6Kgk0uvD2mo4=
+https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1764837935-0456d0412d274cc2837f652d569ce034-0-1546692ee2f9db5ecb3768b6e3d01b64
+#EXTINF:-1，钱江卫视
+https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1764837935-0456d0412d274cc2837f652d569ce034-0-1546692ee2f9db5ecb3768b6e3d01b64
+#EXTINF:-1,经济生活
+https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1764837935-0456d0412d274cc2837f652d569ce034-0-1546692ee2f9db5ecb3768b6e3d01b64
 #EXTINF:-1,CCTV4
 https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/11b65ff183334a7da90c8f0ec2e104fb/4000.m3u8
 #EXTINF:-1,安徽卫视
