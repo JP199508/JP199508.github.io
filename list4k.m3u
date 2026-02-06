@@ -6,19 +6,19 @@
 
 # CCTV-1 综合
 #EXTINF:-1 tvg-id="CCTV1" group-title="CCTV",CCTV-1 综合
-https://live.huarenlivewebsite.top/stream/CCTV1_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNYPf6y4BlkU0EHVRkVj2I9w=
+https://tv4.huarenlivewebsite5.top/ts/CCTV1_MG/CCTV1_MG_1754827203_1770361756.ts
 # CCTV-2 财经
 #EXTINF:-1 tvg-id="CCTV2" group-title="CCTV",CCTV-2 财经
-https://live.huarenlivewebsite.top/stream/CCTV2_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNYK7IEZqs7AbCOsH2g0q1OE=
+https://node7.huarenlivewebsite4.top/ts/CCTV2_MG/CCTV2_MG_1763193747_1770361829.ts
 # CCTV-3 综艺
 #EXTINF:-1 tvg-id="CCTV3" group-title="CCTV",CCTV-3 综艺
-https://live.huarenlivewebsite.top/stream/CCTV3_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNQQjzpwLyZ-_0m6WemNTomY=
+https://node8.huarenlivewebsite4.top/ts/CCTV3_MG/CCTV3_MG_1754799469_1770361672.ts
 # CCTV-4 中文国际
 #EXTINF:-1 tvg-id="CCTV4" group-title="CCTV",CCTV-4 中文国际
-https://live.huarenlivewebsite.top/stream/CCTV4YT.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNTZJrQQzvwJa1-BWl4eXb40=
+https://tv4.huarenlivewebsite5.top/ts/CCTV4YT/CCTV4YT_443_1770361940.ts
 # CCTV-4 4k 中文国际
 #EXTINF:-1 tvg-id="CCTV4 4k" group-title="CCTV",CCTV-4 4k中文国际
-https://live.huarenlivewebsite.top/stream/CCTV4K.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNetYGzny3S1KfLxhsYPEXNo=
+https://tv5.huarenlivewebsite5.top/ts/CCTV4K/CCTV4K_1754869101_1770361962.ts
 # CCTV-5 体育
 #EXTINF:-1 tvg-id="CCTV5" group-title="CCTV",CCTV-5 体育
 https://live.huarenlivewebsite.top/stream/CCTV5_MG.m3u8?auth=HtoaqbN7q6OCL9zc-tmaNZvYesSzjQlUjsdiBLlPyow=
